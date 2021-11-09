@@ -1,0 +1,22 @@
+a {
+    width: 120px;
+    height: 58px;
+    background-color: skyblue;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    line-height: 58px;
+}
+.one:hover {
+    background-color: #ff0;
+}
+.two:hover {
+    background-color: #f00;
+}
+.three:hover {
+    background-color: #000;
+}
+.four:hover {
+    background-color: #f0f;
+}
