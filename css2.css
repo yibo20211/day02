@@ -1,0 +1,23 @@
+.box {
+    width: 800px;
+    margin: 0 auto;
+}
+.info {
+    text-align: center;
+}
+.time {
+    color: #808080;
+}
+.redstar {
+    color: 87ceeb;
+    font-weight: 700;
+}
+.link {
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-indent: 2em;
+}
